@@ -76,9 +76,3 @@ Set up your accounts for each node:
 1. Test each node once using a sample invoice PDF.
 2. Toggle the workflow switch to **Active**.
 
----
-
-## 📁 File Structure
-
-- `4) Invoice Workflow.json` — The complete n8n workflow template.
-- `README.md` — Workflow documentation and setup guide.
